@@ -1,7 +1,8 @@
 # Hi, I'm Steven Mendoza
 
 Backend Software Engineer (Fullstack) focused on backend systems, API design, authentication flows, and infrastructure-aware development.
-- Portfolio: https://steven-mendoza.com
+
+**Portfolio:** https://steven-mendoza.com
 
 ---
 
