@@ -2,6 +2,8 @@
 
 Backend Software Engineer (Fullstack) focused on backend systems, API design, authentication flows, and infrastructure-aware development.
 
+---
+
 ## 💻 Tech Stack:
 
 ### Backend & Databases
@@ -42,26 +44,15 @@ Containerized deployments, reverse proxies, and CI/CD pipelines for dev and prod
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
 
+---
+
 ## 🚀 Deployed Applications
 
-I design, build, and deploy backend-driven applications with real production setups.
+### Hermes Services [(Platform)](https://hermes.purpleblue.site/) [(PyPI Framework Package)](https://pypi.org/project/hermes-deployer/) [(Service Repo)](https://github.com/steven-mendoza-z/hermes-deploy-service) [(Package Repo)](https://github.com/steven-mendoza-z/DHermes)
+- DevOps-as-Code platform for automating multi-server deployments and CI/CD.
 
-### Hermes Services
-DevOps-as-Code platform for automating multi-server deployments and CI/CD.
+### Quackternion [(Platform)](https://quackternion.purpleblue.site/) [(Repo)](https://github.com/steven-mendoza-z/Quackternion)
+- Backend-driven web application for 3D simulation using quaternions, with PDF/LaTeX export.
 
-🔗 https://hermes.purpleblue.site/  
-📦 https://pypi.org/project/hermes-deployer/
-
----
-
-### Quackternion
-Backend-driven web app for 3D simulation using quaternions, with PDF/LaTeX export.
-
-🔗 https://quackternion.purpleblue.site/
-
----
-
-### Eulerian Hades
-Backend-focused learning and problem-solving platform (MVP delivered).
-
-🔗 https://eulerian-hades.purpleblue.site/home
+### Eulerian Hades [(Platform)](https://eulerian-hades.purpleblue.site/home) [(Repo)](https://github.com/steven-mendoza-z/Eulerian-hades)
+- Backend-focused learning and problem-solving platform (MVP delivered).
