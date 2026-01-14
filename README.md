@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Steven Mendoza
+# Hi, I'm Steven Mendoza
 
 Backend Software Engineer (Fullstack) focused on backend systems, API design, authentication flows, and infrastructure-aware development.
 
@@ -15,6 +15,7 @@ Backend APIs, real-time services, authentication, and data modeling.
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&color=499848) 
 ![JWT](https://img.shields.io/badge/JWT-%298729.svg?style=for-the-badge&logo=jsonwebtokens&ogoColor=white&color=black) 
 ![OAuth2](https://img.shields.io/badge/OAuth2-%298729.svg?style=for-the-badge&logo=oauth&logoColor=white&color=black) 
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -46,10 +47,10 @@ Containerized deployments, reverse proxies, and CI/CD pipelines for dev and prod
 
 ---
 
-## 🚀 Deployed Applications
+## 🏗️ Production Systems
 
 ### Hermes Services [(Platform)](https://hermes.purpleblue.site/) [(PyPI Framework Package)](https://pypi.org/project/hermes-deployer/) [(Service Repo)](https://github.com/steven-mendoza-z/hermes-deploy-service) [(Package Repo)](https://github.com/steven-mendoza-z/DHermes)
-- DevOps-as-Code platform for automating multi-server deployments and CI/CD.
+- DevOps-as-Code platform for automating multi-server deployments and CI/CD workflows.
 
 ### Quackternion [(Platform)](https://quackternion.purpleblue.site/) [(Repo)](https://github.com/steven-mendoza-z/Quackternion)
 - Backend-driven web application for 3D simulation using quaternions, with PDF/LaTeX export.
