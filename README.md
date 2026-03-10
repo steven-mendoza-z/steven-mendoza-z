@@ -2,7 +2,7 @@
 
 Backend Engineer focused on **API-driven systems, system design, and infrastructure-aware development**.
 
-I work primarily on backend architectures within production SaaS environments, translating product requirements into structured backend solutions within defined architectural boundaries. Beyond professional work, I design and evolve systems across the full lifecycle, from requirement analysis and system modeling to implementation and deployment workflows.
+I work on backend architectures within production SaaS environments, translating product requirements into structured backend solutions within established architectural constraints. Beyond professional work, I design and evolve systems across the full lifecycle, from requirement analysis and system modeling to implementation and deployment workflows.
 
 **Portfolio:** https://steven-mendoza.com
 
@@ -21,7 +21,7 @@ I work primarily on backend architectures within production SaaS environments, t
 ## 💻 Tech Stack
 
 ### Backend & Databases
-Python · Django REST + Channels· .NET · PostgreSQL · Redis · MongoDB  
+Python · Django REST + Channels · .NET · PostgreSQL · Redis · MongoDB  
 Authentication (JWT, OAuth2) · Real-time services · Data modeling
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=2496ED) 
@@ -54,11 +54,11 @@ React · Flutter · JavaScript
 ## 🏗️ Selected Systems
 
 ### Hermes Services  
-DevOps-as-Code platform for automating multi-server deployments, environment isolation, and reproducible CI/CD workflows. [(Platform)](https://hermes.purpleblue.site/) [(PyPI Framework Package)](https://pypi.org/project/hermes-deployer/) [(Service Repo)](https://github.com/steven-mendoza-z/hermes-deploy-service) [(Package Repo)](https://github.com/steven-mendoza-z/DHermes)
+DevOps-as-Code platform for orchestrating multi-server deployments through declarative infrastructure definitions and automated CI/CD workflows. [(Platform)](https://hermes.purpleblue.site/) [(PyPI Framework Package)](https://pypi.org/project/hermes-deployer/) [(Service Repo)](https://github.com/steven-mendoza-z/hermes-deploy-service) [(Package Repo)](https://github.com/steven-mendoza-z/hermes-deployer)
 
 ### Quackternion  
-Backend-driven 3D simulation platform using quaternion-based transformations with PDF/LaTeX export. [(Platform)](https://quackternion.purpleblue.site/) [(Repo)](https://github.com/steven-mendoza-z/Quackternion)
+Backend-driven 3D simulation platform using quaternion-based transformations with PDF/LaTeX export. [(Platform)](https://quackternion.purpleblue.site/) [(Repo)](https://github.com/steven-mendoza-z/quackternion)
 
 ### Eulerian Hades  
-Backend-focused learning platform designed for modular growth and long-term maintainability. [(Platform)](https://eulerian-hades.purpleblue.site/home) [(Repo)](https://github.com/steven-mendoza-z/Eulerian-hades)
+Backend-focused learning platform designed for modular growth and long-term maintainability. [(Platform)](https://eulerian-hades.purpleblue.site/home) [(Repo)](https://github.com/steven-mendoza-z/eulerian-hades)
 
